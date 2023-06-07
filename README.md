@@ -22,7 +22,7 @@ body {
     <td><img src="image/lakshya.png" alt="lakshya love walpaper"></td>
     <td>
     <p><em>Lakshya's <strong> Wikipedia</strong>,</em></p>
-    <p>I am <strong>IOS and Web Developer With a <a href="https://www.instagram.com/lakshya_______07">instagram modle </a> </strong>. I love coffee and brew my own beers.</p>
+    <p>I am <strong>IOS and Web Developer With a <a href="https://www.instagram.com/lakshya_______007">instagram modle </a> </strong>. I love coffee and brew my own beers.</p>
     <h1> Lakshya Kumawat </h1>
     <h3> Contact Number:8854042661 </h3>
     <h3>DOB.: 01-06-1998</h3>
@@ -208,6 +208,6 @@ beliefs.
 
 
  <a name="key"down data</a>
-   <a href=#key2>go top</a></strong></h3>
+   <a href="#key2">go top</a></strong></h3>
   </body>
 </html>
